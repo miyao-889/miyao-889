@@ -1,0 +1,29 @@
+======================个人信息=====================
+FirstName： Larry Philip
+LastName：
+电话： 6709896028
+邮箱： Laz.phil.spn@gmail.com
+======================地址信息======================
+国家： US
+州： MP
+城市： Saipan
+地址1： Halle Place
+地址2： As Lito
+邮编： 96970
+======================卡号信息======================
+姓名： Visa
+卡号： 4343089000013095
+日期： 03/25
+CVV： 326
+======================银行信息======================
+归属： visa
+类型： credit
+等级： Traditional
+银行： BANK OF GUAM
+国家： Guam
+======================指纹信息======================
+IP地址：116.68.18.179
+语言： en-US
+时区： Pacific/Guam
+浏览器UA： Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+获取时间： 2023-07-09T09:10:10
